@@ -1,4 +1,106 @@
 #EXTM3U 
+#EXTINF:-1,[24H] - Aladin
+http://srvuhd.top:80/FAMILIA/12345/72932
+#EXTINF:-1,[24H] - As Meninas Superpoderosas
+http://srvuhd.top:80/FAMILIA/12345/72933
+#EXTINF:-1,[24H] - Ben 10
+http://srvuhd.top:80/FAMILIA/12345/72934
+#EXTINF:-1,[24H] - Bob Esponja
+http://srvuhd.top:80/FAMILIA/12345/72935
+#EXTINF:-1,[24H] - Breaking Bad
+http://srvuhd.top:80/FAMILIA/12345/72936
+#EXTINF:-1,[24H] - Cão Coragem
+http://srvuhd.top:80/FAMILIA/12345/72937
+#EXTINF:-1,[24H] - Caverna do Dragão
+http://srvuhd.top:80/FAMILIA/12345/72938
+#EXTINF:-1,[24H] - Chapolin Colorado
+http://srvuhd.top:80/FAMILIA/12345/72939
+#EXTINF:-1,[24H] - Chaves
+http://srvuhd.top:80/FAMILIA/12345/72940
+#EXTINF:-1,[24H] - Chaves Desenho
+http://srvuhd.top:80/FAMILIA/12345/72941
+#EXTINF:-1,[24H] - Denis o Pimentinha
+http://srvuhd.top:80/FAMILIA/12345/72942
+#EXTINF:-1,[24H] - Desenhos Biblicos
+http://srvuhd.top:80/FAMILIA/12345/72943
+#EXTINF:-1,[24H] - Desenhos Disney
+http://srvuhd.top:80/FAMILIA/12345/72944
+#EXTINF:-1,[24H] - Digimon
+http://srvuhd.top:80/FAMILIA/12345/72945
+#EXTINF:-1,[24H] - Dois Homens e Meio
+http://srvuhd.top:80/FAMILIA/12345/72946
+#EXTINF:-1,[24H] - Doug
+http://srvuhd.top:80/FAMILIA/12345/72947
+#EXTINF:-1,[24H] - Dragon Ball
+http://srvuhd.top:80/FAMILIA/12345/72948
+#EXTINF:-1,[24H] - Eu a Patroa e as Crianças
+http://srvuhd.top:80/FAMILIA/12345/72949
+#EXTINF:-1,[24H] - Galinha Pintadinha
+http://srvuhd.top:80/FAMILIA/12345/72950
+#EXTINF:-1,[24H] - Guardiões da Galaxia
+http://srvuhd.top:80/FAMILIA/12345/72951
+#EXTINF:-1,[24H] - He-Man
+http://srvuhd.top:80/FAMILIA/12345/72952
+#EXTINF:-1,[24H] - Historias Disney
+http://srvuhd.top:80/FAMILIA/12345/72953
+#EXTINF:-1,[24H] - Pica Pau
+http://srvuhd.top:80/FAMILIA/12345/72954
+#EXTINF:-1,[24H] - Todo Mundo Odeia o Chris
+http://srvuhd.top:80/FAMILIA/12345/72955
+#EXTINF:-1,[24H] - 3 Palavrinhas
+http://srvuhd.top:80/FAMILIA/12345/72956
+#EXTINF:-1,[24H] - A Grande Familia
+http://srvuhd.top:80/FAMILIA/12345/72957
+#EXTINF:-1,[24H] - A Feiticeira
+http://srvuhd.top:80/FAMILIA/12345/72958
+#EXTINF:-1,[24H] - Mr. Bean
+http://srvuhd.top:80/FAMILIA/12345/72959
+#EXTINF:-1,[24H] - Friends - Temp 03
+http://srvuhd.top:80/FAMILIA/12345/72960
+#EXTINF:-1,[24H] - Scooby Doo
+http://srvuhd.top:80/FAMILIA/12345/72961
+#EXTINF:-1,[24H] - O Máskara
+http://srvuhd.top:80/FAMILIA/12345/72962
+#EXTINF:-1,[24H] - Tom E Jerry
+http://srvuhd.top:80/FAMILIA/12345/72963
+#EXTINF:-1,[24H] - Caverna Do Dragão
+http://srvuhd.top:80/FAMILIA/12345/72964
+#EXTINF:-1,[24H] - Galinha Pintadinha
+http://srvuhd.top:80/FAMILIA/12345/72965
+#EXTINF:-1,[24H] - Homem Aranha
+http://srvuhd.top:80/FAMILIA/12345/72966
+#EXTINF:-1,[24H] - Ben 10
+http://srvuhd.top:80/FAMILIA/12345/72967
+#EXTINF:-1,[24H] - Aladdin Desenho Animado
+http://srvuhd.top:80/FAMILIA/12345/72968
+#EXTINF:-1,[24H] - As Aventuras De Jackie Chan
+http://srvuhd.top:80/FAMILIA/12345/72969
+#EXTINF:-1,[24H] - The Big Bang Theory - Temp 1
+http://srvuhd.top:80/FAMILIA/12345/72970
+#EXTINF:-1,[24H] - Os Padrinhos Mágicos -
+http://srvuhd.top:80/FAMILIA/12345/72971
+#EXTINF:-1,[24H] - A Turma Da Monica 2
+http://srvuhd.top:80/FAMILIA/12345/72972
+#EXTINF:-1,[24H] - PJ Masks
+http://srvuhd.top:80/FAMILIA/12345/72973
+#EXTINF:-1,[24h] - 101 Dalmatas
+http://srvuhd.top:80/FAMILIA/12345/72974
+#EXTINF:-1,[24h] - Desenhos Biblicos 2
+http://srvuhd.top:80/FAMILIA/12345/72975
+#EXTINF:-1,[24h] - Johnny Test
+http://srvuhd.top:80/FAMILIA/12345/72976
+#EXTINF:-1,[24h] - Looney Tunes
+http://srvuhd.top:80/FAMILIA/12345/72977
+#EXTINF:-1,[24h] - Masha e o Urso 2
+http://srvuhd.top:80/FAMILIA/12345/72978
+#EXTINF:-1,[24h] - Os Backyardigans
+http://srvuhd.top:80/FAMILIA/12345/72979
+#EXTINF:-1,[24h] - Teletubbies
+http://srvuhd.top:80/FAMILIA/12345/72980
+#EXTINF:-1,[24H] - He Man Desenho 2
+http://srvuhd.top:80/FAMILIA/12345/72981
+#EXTINF:-1,[24H] - Jaspion
+http://srvuhd.top:80/FAMILIA/12345/72982
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="24H Desenhos",[24H] Irmão do Jorel
 http://xsrv.me:8080/Elizabeth/Elizabeth/93334
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo e Scrappy-Doo" tvg-logo="http://cdnbr.me/logos/img/24hrs.png" group-title="24H Desenhos",[24H] Scooby-Doo e Scrappy-Doo
